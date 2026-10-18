@@ -1,6 +1,5 @@
 **Status:** Active Development
-# Lip Reading – Visual Speech Recognition
-
+# SilentSpeech AI: Deep Learning Based Visual Speech Recognition from Lip Movement 
 A deep learning system that predicts spoken words from a silent video by analyzing lip movements.  
 The model processes video frames of a speaker’s mouth and outputs the most probable spoken word.
 
