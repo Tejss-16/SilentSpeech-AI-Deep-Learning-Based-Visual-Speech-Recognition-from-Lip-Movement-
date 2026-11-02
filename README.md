@@ -137,7 +137,7 @@ The model is trained on the **LRS2 dataset**, a publicly available dataset conta
 ---
 ## Project Report
 A detailed explanation of methodology, dataset preparation, and experiments is available here:
-[Project Report](docs/Lip_Reading_Project_Report.pdf)
+[Project Report](docs/SilentSpeech-AI-Deep-Learning-Based-Visual-Speech-Recognition-from-Lip-Movement.pdf)
 
 
 ## Author
